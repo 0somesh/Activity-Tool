@@ -4,9 +4,6 @@
 - Added Label for Every Track
 - Video/WebCam/External Camera/IP Stream Supported
 
-## Ready to Use Google Colab
-[`Google Colab File`](https://colab.research.google.com/drive/1IivrmAtnhpQ1PSmWsp-G6EnqsUOol9v8?usp=sharing)
-
 ## Steps to run Code
 
 - Clone the repository
